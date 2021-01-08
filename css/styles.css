@@ -69,6 +69,17 @@ body {
   background-color: #fff;
 }
 
+
+.solution5 {
+ background: url('http://themesquared.com/flathost/wp-content/uploads/2015/03/header-bg.jpg');
+ background-size: cover;
+ /** just to fit height of the parent **/
+ height : 100%;  
+}
+
+
+
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
