@@ -71,7 +71,7 @@ body {
 
 
 .solution5 {
- background: url('http://themesquared.com/flathost/wp-content/uploads/2015/03/header-bg.jpg');
+ background: url('/assets/img/head.jpg');
  background-size: cover;
  /** just to fit height of the parent **/
  height : 80%;  
