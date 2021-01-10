@@ -70,14 +70,6 @@ body {
 }
 
 
-.solution5 {
- background: url('/assets/img/head.jpg');
- background-size: cover;
- /** just to fit height of the parent **/
- height : 80%;  
-}
-
-
 
 
 [tabindex="-1"]:focus:not(:focus-visible) {
